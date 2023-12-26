@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/workspace2.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Currículo interativo do curso de Engenharia de controle e automação da UFSC",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Um currículo interativo e responsivo do curso de Engenharia de controle e automação da UFSC. O projeto foi desenvolvido em QT Widgets e C++",
+    url: "https://github.com/nettoflix/DiagramasECA",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Aplicativo de controle de vendas",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Aplicativo de organização das vendas da mamãe, escrito em java com o Android Studio. É um aplicativo que controla as vendas, e acompanha as dívidas dos clientes.",
+    url: "https://github.com/nettoflix/IsasSelling2",
   },
 ];
 
